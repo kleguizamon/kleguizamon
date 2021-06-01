@@ -2,7 +2,7 @@
 #### I'm backend developer
 
 - 💬 I use daily: **node js, soa arquitecture, iib, datapower**
-- 🌱 I’m currently learning: **nest js framework, typescript, aws**
+- 🌱 I’m currently learning: **nest js framework & aws**
 - 🌿 I also learned: **css, sass, react**
 - 🏢 I'm currently working at **integration company**
 
