@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Kevin Leguizamon
 #### I'm backend developer
 
-- 💬 I use daily: **node js, soa arquitecture, iib, datapower**
-- 🌱 I’m currently learning: **nest js framework & aws**
+- 💬 I use daily: **node js, typescript, aws**
+- 🌱 I’m currently learning: **smart-contract & solidity**
 - 🌿 I also learned: **css, sass, react**
 - 🏢 I'm currently working at **integration company**
 
