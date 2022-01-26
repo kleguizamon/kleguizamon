@@ -2,7 +2,7 @@
 #### I'm backend developer
 
 - 💬 I use daily: **node js, typescript, aws**
-- 🌱 I’m currently learning: **smart-contract & solidity**
+- 🌱 I’m currently learning: **solidity & defi**
 - 🌿 I also learned: **css, sass, react**
 - 🏢 I'm currently working at **fintech company**
 
