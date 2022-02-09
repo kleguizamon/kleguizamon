@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Kevin Leguizamon
 #### I'm backend developer
 
-- 💬 I use daily: **node js, typescript, aws**
-- 🌱 I’m currently learning: **solidity & defi**
+- 💬 I use daily: **nodejs, typescript, aws**
+- 🌱 I’m currently learning: **blockchain, solidity & defi**
 - 🌿 I also learned: **css, sass, react**
 - 🏢 I'm currently working at **fintech company**
 
