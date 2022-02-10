@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kevin Leguizamon
+### Hi 👋, I'm Kevin
 #### I'm backend developer
 
 - 💬 I use daily: **nodejs, typescript, aws**
