@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Kevin
-#### I'm backend developer
+#### I'm fullstack developer
 
 - 💬 I use daily: **nodejs, typescript, aws**
 - 🌱 I’m currently learning: **blockchain, solidity & defi**
